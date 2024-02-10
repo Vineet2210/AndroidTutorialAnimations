@@ -1,0 +1,10 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="@color/tab_selected_color" />
+    <corners
+    android:radius="4dp"/> <!-- Dark white color for active state -->
+    <size android:width="35dp"
+        android:height="20dp"/>
+    <!-- Make it oval by changing width -->
+
+</shape>

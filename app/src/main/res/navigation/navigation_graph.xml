@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/navigation_graph"
+    app:startDestination="@id/fragmentStepAThon">
+    <fragment
+        android:id="@+id/fragmentStepAThon"
+        android:name="com.vineet.visithealthassesment.presentation.fragment.StepAThonFragment"
+        android:label="Step A Thon Fragment"
+        tools:layout="@layout/fragment_step_a_thon"/>
+</navigation>

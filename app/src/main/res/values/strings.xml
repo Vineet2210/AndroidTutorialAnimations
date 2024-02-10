@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">VisitHealthAssesment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next">Next</string>
+    <string name="step_a_thon">Step-a-thon</string>
+    <string name="step_up_and_score">Step Up and Score</string>
+    <string name="join_the_race_lace_up_and_embrace_health">Join the Race, Lace Up, and\nEmbrace Health!</string>
+    <string name="claim_the_throne">Claim the Throne</string>
+    <string name="compete_with_collegues">Compete with your colleagues for Top Ranks</string>
+    <string name="score_big">Score Big!!</string>
+    <string name="victory_unlocks">Victory Unlocks Spectacular Vouchers, Cashbacks, and Beyond</string>
+    <string name="lets_go">Let\'s Go</string>
+</resources>
